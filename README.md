@@ -5,7 +5,7 @@ using Mamdani inference system.
 To run fuzzycar,
 
 ```
-python fuzzycar [-h] temp cloud
+python fuzzycar.py [-h] temp cloud
 ```
 
 where `temp` is the temperature, and `cloud` is the cloud coverage.

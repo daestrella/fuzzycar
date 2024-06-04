@@ -2,7 +2,7 @@ import argparse
 
 def parse():
     parser = argparse.ArgumentParser(
-            prog='CarAI',
+            prog='fuzzycar',
             description=f'Outputs the car speed given the temperature and '
                         f'cloud coverage percentage.')
 
